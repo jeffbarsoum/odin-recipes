@@ -1,0 +1,26 @@
+/* This is a comment */
+
+body {
+  font-family: Helvetica, sans-serif;
+  font-size: 14px;
+  background-color: #00557f;
+  color: #00aeff;
+}
+
+img {
+  height: 300px;
+}
+
+.pg-title {
+  color: #ff89ff;
+  font-size: 25px;
+}
+
+.pg-subtitle {
+  color: #ff89ff;
+}
+
+.list-item {
+  font-style: italic, bold;
+  color: #ff89ff;
+}
